@@ -1,3 +1,9 @@
+/** 
+    * Class Assignment Computer Science 1400 
+    * @author Sachin Chhetri <sachinchhetri202@gmail.com>
+    * Object Oriented Programming, Constructers, Getters, Setters, Loops, Handling Exceptions, Conditions. 
+    */
+
 import java.util.*;
 
 public class Main{
